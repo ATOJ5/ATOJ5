@@ -2,9 +2,11 @@
 
 <h3>I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>) </h3>
 <h5>In this Github, I upload different projects I'm working on, such as:</h5>
-Practices during the degree
-Personal projects.
-Courses I have participated in.
+<ul>
+<li>Practices during the degree</li>
+<li>Personal projects.</li>
+<li>Courses I have participated in.</li>
+</ul>
 <h3>Languages and Tools:</h3>
 <a href="https://www.w3schools.com/css/"><img src="https://user-images.githubusercontent.com/108841509/227043553-01df19d7-d0f1-429e-a065-ca520b146fa1.png" width="30" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/css/"></a>
 
