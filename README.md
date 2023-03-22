@@ -1,6 +1,8 @@
+<style>
 div.imagenes {
   margin: 10px;
 }
+</style>
 
 <h1>Hey! Nice to see you.</h1>
 
