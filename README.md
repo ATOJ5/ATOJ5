@@ -1,4 +1,4 @@
-<h2>Hey! Nice to see you.</h2>
+<h1>Hey! Nice to see you.</h1>
 
 My name is Jose David Garcia, and I'm a student of Higher Technician in Web Application Development in Granada.
 In this Github, I upload different projects I'm working on, such as:
