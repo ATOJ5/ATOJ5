@@ -11,6 +11,7 @@
 
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a>
 <a href="https://www.w3schools.com/css"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/css/"></a>
+<a href="https://www.w3schools.com/js/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/js/default.asp"></a>
 
 
 CSS3
