@@ -19,7 +19,7 @@
 
 <h3>Software</h3>
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30" style="margin-right: 30px;"  alt="Visual Studio Code" title="https://code.visualstudio.com/"></a> &nbsp; &nbsp;
-IntelliJ Idea
+<a href="https://www.jetbrains.com/es-es/idea/"><img src="https://user-images.githubusercontent.com/108841509/227059016-6110a03b-3de0-4f12-b17a-289ca4da8536.png" width="30" style="margin-right: 30px;"  alt="IntelliJ" title="https://www.jetbrains.com/es-es/idea/"></a> &nbsp; &nbsp;
 Netbeans
 Unity
 
