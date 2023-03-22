@@ -16,12 +16,12 @@ Java
 JavaScript
 MySQL
 
-Software:
+<h3>Software</h3>
 Visual Studio Code
 IntelliJ Idea
 Netbeans
 Unity
 
-Frameworks I've used in some project:
+<h3>Frameworks I've used in some project</h3>
 Bootstrap
 
