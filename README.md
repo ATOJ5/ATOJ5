@@ -23,8 +23,6 @@
 <a href="https://netbeans.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" width="30" style="margin-right: 30px;"  alt="NetBeans" title="https://netbeans.apache.org/"></a> &nbsp; &nbsp;
 <a href="https://www.mysql.com/products/workbench/"><img src="https://user-images.githubusercontent.com/108841509/227059624-7a9591f1-4e2c-48fe-bd4d-56041b1e1dd9.png" width="30" style="margin-right: 50px;"  alt="Workbench" title="https://www.mysql.com/products/workbench/"></a> &nbsp; &nbsp;
 
-
-
-<h3>Frameworks I've used in some project</h3>
-Bootstrap
+<h3>Frameworks I've used in some project:</h3>
+<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="30" style="margin-right: 50px;"  alt="Workbench" title="https://getbootstrap.com/"></a> &nbsp; &nbsp;
 
