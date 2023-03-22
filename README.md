@@ -10,15 +10,12 @@
 <h3>Languages and Tools:</h3>
 
 <div style="display: flex; justify-content: space-around;">
-  <a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a>
 <a href="https://www.w3schools.com/css"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/css/"></a>
 <a href="https://www.w3schools.com/js/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/js/default.asp"></a>
 <a href="https://www.w3schools.com/java/default.asp"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="30" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/java/default.asp"></a>
 <a href="https://www.w3schools.com/mysql/default.asp"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="50" style="margin-right: 30px;"  alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/mysql/default.asp"></a>
 </div>
-
-
-
 
 <h3>Software</h3>
 Visual Studio Code
