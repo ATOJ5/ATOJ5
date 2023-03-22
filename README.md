@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you.</h1>
 
 I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>) 
-</br>In this Github, I upload different projects I'm working on, such as:
+<small>In this Github, I upload different projects I'm working on, such as:</small>
 Practices during the degree
 Personal projects.
 Courses I have participated in.
