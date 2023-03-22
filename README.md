@@ -1,16 +1,23 @@
-### Hi there 👋
+Hello!
+My name is Jose David Garcia, and I'm a student of Higher Technician in Web Application Development in Granada.
+In this Github, I upload different projects I'm working on, such as:
+Practices during the degree
+Personal projects.
+Courses I have participated in.
+Languages and Tools:
+![image](https://user-images.githubusercontent.com/108841509/227043553-01df19d7-d0f1-429e-a065-ca520b146fa1.png)
+CSS3
+C++
+Java
+JavaScript
+MySQL
 
-<!--
-**ATOJ5/ATOJ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software:
+Visual Studio Code
+IntelliJ Idea
+Netbeans
+Unity
 
-Here are some ideas to get you started:
+Frameworks I've used in some project:
+Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
