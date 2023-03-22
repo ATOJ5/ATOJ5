@@ -6,7 +6,7 @@ Personal projects.
 Courses I have participated in.
 Languages and Tools:
 ![image](https://user-images.githubusercontent.com/108841509/227043553-01df19d7-d0f1-429e-a065-ca520b146fa1.png | width=30)
-![](https://www.w3schools.com/css/)
+![url](https://www.w3schools.com/css/)
 CSS3
 C++
 Java
