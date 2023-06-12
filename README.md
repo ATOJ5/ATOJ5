@@ -2,13 +2,16 @@
 
 <h4>I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada,  <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>)<br>
 I'm passionate about web development and I'm constantly learning and improving my skills in this field. </h4>
-<h4>In this Github, I upload different projects I'm working on, such as:</h4>
+
+<h2>Projects</h2>
+
+<h4>Here you will find a variety of projects I have been working on, including:</h4>
 <ul>
-<li>Practices during the degree</li>
-<li>Personal projects.</li>
-<li>Courses I have participated in.</li>
+<li>Practices carried out during my studies</li>
+<li>Personal projects i have worked on independently</li>
+<li>Courses I have participated in to expand my knowledge</li>
 </ul>
-<h3>Languages and Tools:</h3>
+<h2>Tools and Technology:</h2>
 
 <div style="display: flex; justify-content: space-around;">
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a> &nbsp; &nbsp;
