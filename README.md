@@ -1,6 +1,6 @@
 <h1>About Me.</h1>
 
-<h3>I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada,  <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>) </h3>
+<h5>I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada,  <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>) </h5
 <h5>In this Github, I upload different projects I'm working on, such as:</h5>
 <ul>
 <li>Practices during the degree</li>
