@@ -1,4 +1,4 @@
-<h1>About Me.</h1>
+<h1>About Me</h1>
 
 I'm Jose David Garcia, a student of Higher Technician in Web Application Development from Granada,  <img src="https://user-images.githubusercontent.com/108841509/227047690-8b8c901b-e00c-4de5-802f-5f74e0850d18.png" width="15"> (<b>Spain</b>)<br>
 I'm passionate about web development and I'm constantly learning and improving my skills in this field. 
@@ -11,7 +11,7 @@ I'm passionate about web development and I'm constantly learning and improving m
 <li>Personal projects i have worked on independently</li>
 <li>Courses I have participated in to expand my knowledge</li>
 </ul>
-<h2>Tools and Technology:</h2>
+<h2>Tools and Technology</h2>
 
 <div style="display: flex; justify-content: space-around;">
 <a href="https://www.w3schools.com/html/default.asp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="40" alt="Enlace al sitio web de W3Schools" title="https://www.w3schools.com/html/default.asp"></a> &nbsp; &nbsp;
