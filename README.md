@@ -13,7 +13,8 @@ I'm passionate about web development and I'm constantly learning and looking for
 <li>Courses I have participated in to expand my knowledge</li>
 </ul>
 
-<a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer<b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more 
+<a href="https://github.com/ATOJ5/MusicPlayer"> <b>MusicPlayer<b> </a> - This application allows you to play and manage your music library in a simple and customized way. With an intuitive and appealing interface, Music Player offers features such as song search, playlist creation, loop playback, and much more.
+
 <b>Bookmark Online Shop<b> - Its small online shop that specializes in selling bookmarks, prints, planners, and some other items related to digital printing. This project has been coded in html,css,javascript and php. Also , it will be using pay platform as Stripe and paypal. This is a private project until release  
 <h2>Tools and Technology</h2>
 
